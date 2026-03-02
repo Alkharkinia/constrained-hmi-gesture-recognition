@@ -1,0 +1,9 @@
+Constrained HMI Comparison
+
+By Alperen Karadağ
+
+Motion Model Training Colab
+https://colab.research.google.com/drive/1trS-sSFEEwQ-Hb5sy6srEe3M8eCO-BXx#scrollTo=Bp19r044xaK6
+
+Vision Model Training Colab
+https://colab.research.google.com/drive/1itFlAAwsjCoDL1sMLSZHefrMyJQA5XhS#scrollTo=jp7Tk67p2ksC
