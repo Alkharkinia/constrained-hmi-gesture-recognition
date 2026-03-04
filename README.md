@@ -170,6 +170,6 @@ This project is released under the MIT License (see `LICENSE` file).
 
 If you use this repository in academic work, please cite:
 
-Karadağ, A. İlk, H.G. (2026). *Comparative Analysis of Motion and Vision-Based Gesture Recognition for Constrained HMI Systems*. Zenodo. [https://doi.org/10.5281/zenodo.18836677](https://doi.org/10.5281/zenodo.18836677)
+Karadağ, A., & İlk, H.G. (2026). *Comparative Analysis of Motion and Vision-Based Gesture Recognition for Constrained HMI Systems*. Zenodo. [https://doi.org/10.5281/zenodo.18836677](https://doi.org/10.5281/zenodo.18836677)
 
 
